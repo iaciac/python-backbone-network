@@ -1,7 +1,7 @@
 python-backbone-network
 =======================
 
-Compute a significance score (alpha) of edge weights in networks using the disparity filter (Serrano et al. 2009).
+A set of functions for computing significance scores (alpha) of edge weights in networks using the disparity filter (Serrano et al. 2009).
 
 
 Dependencies
